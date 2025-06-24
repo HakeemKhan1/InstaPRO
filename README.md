@@ -13,6 +13,10 @@ InstaPRO is an application designed to provide recommendations for your next Ins
 -   **Content Gap Analysis:** Identifies content types, helping you diversify your content strategy.
 -   **Posting Rhythm Analysis:** Analyzes your posting frequency and timing patterns to determine the optimal time to post for maximum engagement.
 
+![image](https://github.com/user-attachments/assets/9dcb384e-00ee-47a9-b912-e1d9b694108c)
+
+![image](https://github.com/user-attachments/assets/907c0882-662f-498e-9d56-e93365ceec46)
+
 ![image](https://github.com/user-attachments/assets/abf7acd5-3e45-425e-b46c-6fa0ab1f7297)
 
 ## Setup
