@@ -1,4 +1,4 @@
-# Instagram Post Recommender
+# InstaPRO
 
 This application uses a multi-agent system to analyze your existing Instagram content and recommend specific next story and feed posts.
 
@@ -85,45 +85,3 @@ To start the application, run the following command:
 python app.py next
 ```
 
-## Uploading to GitHub
-
-1.  Create a new repository on GitHub.
-2.  Initialize a Git repository in your project directory:
-
-    ```bash
-    git init
-    ```
-
-3.  Add the project files to the repository:
-
-    ```bash
-    git add .
-    ```
-
-4.  Commit the changes:
-
-    ```bash
-    git commit -m "Initial commit"
-    ```
-
-5.  Add the remote repository:
-
-    ```bash
-    git remote add origin <your_repository_url>
-    ```
-
-6.  Pull the latest changes from the remote repository:
-
-    ```bash
-    git pull origin main
-    ```
-
-7.  Push the changes to GitHub:
-
-    ```bash
-    git push -u origin main
-    ```
-
-## Contributing
-
-Feel free to contribute to this project by submitting pull requests.
