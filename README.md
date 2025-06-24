@@ -2,6 +2,8 @@
 
 This application uses a multi-agent system to analyze your existing Instagram content and recommend specific next story and feed posts.
 
+![image](https://github.com/user-attachments/assets/abf7acd5-3e45-425e-b46c-6fa0ab1f7297)
+
 ## Setup
 
 1.  Create a virtual environment:
