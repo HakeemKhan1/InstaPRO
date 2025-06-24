@@ -112,7 +112,13 @@ python app.py next
     git remote add origin <your_repository_url>
     ```
 
-6.  Push the changes to GitHub:
+6.  Pull the latest changes from the remote repository:
+
+    ```bash
+    git pull origin main
+    ```
+
+7.  Push the changes to GitHub:
 
     ```bash
     git push -u origin main
