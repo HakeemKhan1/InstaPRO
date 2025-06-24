@@ -7,7 +7,7 @@ InstaPRO is an application designed to provide recommendations for your next Ins
 -   **Multi-Agent System:** Employs three specialized AI agents to provide comprehensive content recommendations.
     -   **Story Specialist:** Focuses on analyzing story posting patterns and recommending engaging story content.
     -   **Feed Specialist:** Concentrates on feed performance, suggesting optimal feed post content and timing.
-    -   **Content Coordinator:** Ensures seamless integration between story and feed strategies y.
+    -   **Content Coordinator:** Ensures seamless integration between story and feed strategies.
 -   **Content Analysis:** Analyzes your existing Instagram content to identify trends and opportunities.
 -   **Personalized Recommendations:** Provides specific, actionable recommendations tailored to your unique content and audience.
 -   **Content Gap Analysis:** Identifies content types, helping you diversify your content strategy.
