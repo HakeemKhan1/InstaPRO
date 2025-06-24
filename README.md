@@ -1,16 +1,16 @@
 ## Overview
 
-InstaPRO is a sophisticated application designed to provide personalized recommendations for your next Instagram story and feed posts. By leveraging a multi-agent system and analyzing your existing content, InstaPRO helps you optimize your posting strategy to maximize engagement and growth.
+InstaPRO is an application designed to provide recommendations for your next Instagram story and feed posts. By leveraging a multi-agent system and analyzing your existing content, InstaPRO helps you optimize your posting strategy to maximize engagement and growth.
 
 ## Features
 
 -   **Multi-Agent System:** Employs three specialized AI agents to provide comprehensive content recommendations.
     -   **Story Specialist:** Focuses on analyzing story posting patterns and recommending engaging story content.
     -   **Feed Specialist:** Concentrates on feed performance, suggesting optimal feed post content and timing.
-    -   **Content Coordinator:** Ensures seamless integration between story and feed strategies for maximum synergy.
--   **Content Analysis:** Analyzes your existing Instagram content, including captions, post types, engagement metrics, and hashtags, to identify trends and opportunities.
--   **Personalized Recommendations:** Provides specific, actionable recommendations for your next story and feed posts, tailored to your unique content and audience.
--   **Content Gap Analysis:** Identifies content types that are missing from your recent posts, helping you diversify your content strategy.
+    -   **Content Coordinator:** Ensures seamless integration between story and feed strategies y.
+-   **Content Analysis:** Analyzes your existing Instagram content to identify trends and opportunities.
+-   **Personalized Recommendations:** Provides specific, actionable recommendations tailored to your unique content and audience.
+-   **Content Gap Analysis:** Identifies content types, helping you diversify your content strategy.
 -   **Posting Rhythm Analysis:** Analyzes your posting frequency and timing patterns to determine the optimal time to post for maximum engagement.
 
 ![image](https://github.com/user-attachments/assets/abf7acd5-3e45-425e-b46c-6fa0ab1f7297)
